@@ -8,13 +8,17 @@ Jumpers & Wiring
 Wiring
 ------
 
-.. Warning::You will DIE if you short the batteries
+.. Warning::
+   You will DIE if you short the batteries
+
 
 Backplane Assembly
 ~~~~~~~~~~~~~~~~~~
 
 #. Start with backplane on flat surface.
 #. insert the boards in the card edge connectors as shown below, ensuring that the tabs are lined up properly (it wont go in the other way, but if you try it can damage the edge connector)
+
+.. figure:: http://underwaterrov.org.ohio-state.edu/img/renders/riptide_180.png
 
 #. line up the longer 2 rod adaptors to the bottom mounting rods and slide in part ways.
 #. plug in the computer power cable to the 12 v board
@@ -24,6 +28,7 @@ Backplane Assembly
 #. take an esc board, and look at the bottom of it, there should be a number. The motor wires are grouped together with white heat shrink that lables it 1-5, find the corresponding motor wires to the board and plug them in to the esc output, matching the heat shrink colors.  the top esc connects to the port motor wires and the lower one connects to the stbd motor wire.
 #. repeat for all esc boards.
 #. plug in the esc boards into the backplane, in the slots above the thruster control board.
+#. slide the backplane in, untill all 4 rods are in the adaptors
 
 
 USB3
